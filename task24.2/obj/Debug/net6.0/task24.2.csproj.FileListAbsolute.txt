@@ -1,0 +1,15 @@
+C:\Users\P\Documents\22_GEEK\Lesson 8.2\task24.2\bin\Debug\net6.0\task24.2.exe
+C:\Users\P\Documents\22_GEEK\Lesson 8.2\task24.2\bin\Debug\net6.0\task24.2.deps.json
+C:\Users\P\Documents\22_GEEK\Lesson 8.2\task24.2\bin\Debug\net6.0\task24.2.runtimeconfig.json
+C:\Users\P\Documents\22_GEEK\Lesson 8.2\task24.2\bin\Debug\net6.0\task24.2.dll
+C:\Users\P\Documents\22_GEEK\Lesson 8.2\task24.2\bin\Debug\net6.0\task24.2.pdb
+C:\Users\P\Documents\22_GEEK\Lesson 8.2\task24.2\obj\Debug\net6.0\task24.2.csproj.AssemblyReference.cache
+C:\Users\P\Documents\22_GEEK\Lesson 8.2\task24.2\obj\Debug\net6.0\task24.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P\Documents\22_GEEK\Lesson 8.2\task24.2\obj\Debug\net6.0\task24.2.AssemblyInfoInputs.cache
+C:\Users\P\Documents\22_GEEK\Lesson 8.2\task24.2\obj\Debug\net6.0\task24.2.AssemblyInfo.cs
+C:\Users\P\Documents\22_GEEK\Lesson 8.2\task24.2\obj\Debug\net6.0\task24.2.csproj.CoreCompileInputs.cache
+C:\Users\P\Documents\22_GEEK\Lesson 8.2\task24.2\obj\Debug\net6.0\task24.2.dll
+C:\Users\P\Documents\22_GEEK\Lesson 8.2\task24.2\obj\Debug\net6.0\refint\task24.2.dll
+C:\Users\P\Documents\22_GEEK\Lesson 8.2\task24.2\obj\Debug\net6.0\task24.2.pdb
+C:\Users\P\Documents\22_GEEK\Lesson 8.2\task24.2\obj\Debug\net6.0\task24.2.genruntimeconfig.cache
+C:\Users\P\Documents\22_GEEK\Lesson 8.2\task24.2\obj\Debug\net6.0\ref\task24.2.dll
